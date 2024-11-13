@@ -8,9 +8,3 @@
 - 시작화면 구성, 난이도 조절 코드 작성
 - 적과 안개 생성 코드 작성
 - 음향 데이터 수집 및 음향 삽입 코드 작성
-
-<br>
-배경화면
-<br>
-![NormalBackground](https://github.com/user-attachments/assets/56c532a8-992e-4407-844a-30ad426e1c31)
-![HardBackground](https://github.com/user-attachments/assets/33d3a29f-0d1d-49b4-b8f5-9aa4eed2dacc)
